@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ruslan
-## I am involved in QA Automation and Manual Testing, and proficient in JavaScript, TypeScript, Ruby, and Python. I also have experience in bush and Perl scripting.
+## I am involved in QA Automation and Manual Testing, and proficient in JavaScript, TypeScript, Ruby, and Python. I also have experience in Bash and Perl scripting.
 
 
 I am a seasoned QA Automation Engineer with over 15 years of experience in software testing and development. I possess strong problem-solving skills, critical thinking abilities, and a knack for adapting quickly to technological changes. My expertise lies in the entire testing lifecycle, encompassing requirements analysis, test artifact creation, and the development of automation tests.
